@@ -1,0 +1,2 @@
+docker kill 01container
+docker rm 01container
